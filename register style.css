@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("face.png");
+    background-size: 100% 100%;
+}
+
+.main-box h1 {
+    font-size: 40px;
+    color: #5D3915;
+}
+.main-box {
+    width: 300px;
+    height: 400px;
+    margin: 30px 0;
+    border: 1px solid;
+    border-radius: 40px;
+    background: #f0Ead2;
+    padding: 20px 20px 20px 20px;
+    position: relative;
+    text-align: center;
+    top: 15%;
+    left: 60%;
+
+}
+
+.username input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: #5D3915;
+}
+
+.email input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: #5D3915;
+}
+
+.password input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: #5D3915;
+}
+
+.confirm-pass input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: #5D3915;
+}
+
+
+.username {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.email {
+    padding: 10px;
+}
+
+.password {
+    padding: 10px;
+}
+
+.confirm-pass {
+    padding: 10px;
+}
+
+.regi-button {
+    padding: 10px;
+}
+
+.login-button {
+    padding: 10px;
+}
+
